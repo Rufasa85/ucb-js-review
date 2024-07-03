@@ -1,0 +1,13 @@
+main {
+  display: flex;
+  flex-wrap: wrap;
+}
+.card {
+  border: 1px solid black;
+  width: 24%;
+}
+
+.cute {
+  background-color: pink;
+  font-family: "Papyrus";
+}
